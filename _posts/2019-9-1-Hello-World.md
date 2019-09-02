@@ -6,7 +6,7 @@ categories: C# Programming
 To display something in the C# console the command is:
 
 ```csharp
-Console.WriteLine("Hello World");
+Console.WriteLine("Jeebie Weebies");
 ```
 
 This needs to be within the: 
