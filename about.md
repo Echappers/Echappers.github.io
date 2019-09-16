@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Complete Lad
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+An even Completer Lad
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[000030017@student.thomroth.ac.uk]
